@@ -51,7 +51,15 @@ h4{
   text-transform: uppercase;
 }
 
+.btn-cta {
+  background-color: #1CE783;
+  padding: 1rem 2rem;
+  font-family: "Rubik";
+  border-radius: 5px;
+}
+
 .btn-cta:hover{
+  cursor:pointer;
   opacity: 0.8;
 }
 
@@ -213,13 +221,13 @@ h4{
   background: url('../img/cover-1.jpg') no-repeat center center / cover;
 }
 .cover-2{
-  background: url('../img/cover-2.jpg')no-repeat center center / cover;
+  background: url('../img/cover-2.jpg') no-repeat center center / cover;
 }
 .cover-3{
-  background: url('../img/cover-3.jpg')no-repeat center center / cover;
+  background: url('../img/cover-3.jpg') no-repeat center center / cover;
 }
 .cover-4{
-  background: url('../img/cover-4.jpg')no-repeat center center / cover;
+  background: url('../img/cover-4.jpg') no-repeat center center / cover;
 }
 
 /* Live */
