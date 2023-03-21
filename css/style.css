@@ -67,10 +67,19 @@ h4{
   background: none;
   color: #fff;
   border: 2px solid #fff;
+  font-family: sans-serif;
+  padding: 13px 24px;
+  font-size: 14px;
+  font-weight: 600;
+  overflow: hidden;
+  border-radius: 3px;
+  line-height: 2;
 }
 .btn-outline:hover{
-  color: #fff;
+  color: black;
+  background-color: #fff;
   border-color: black;
+  border: none;
 }
 
 .legal-text{
