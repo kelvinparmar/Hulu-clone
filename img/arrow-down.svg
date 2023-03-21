@@ -1,0 +1,11 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="arrow-down">
+    <path fill="#000000" d="M831.872 340.864 512 652.672 192.128 340.864a30.592 30.592 0 0 0-42.752 0 29.12 29.12 0 0 0 0 41.6L489.664 714.24a32 32 0 0 0 44.672 0l340.288-331.712a29.12 29.12 0 0 0 0-41.728 30.592 30.592 0 0 0-42.752 0z"></path>
+  </symbol>
+</svg>
+
+
+<!-- To use these svg -->
+<!-- <svg class="icon">
+  <use xlink:href="#arrow-down"></use>
+</svg> -->
