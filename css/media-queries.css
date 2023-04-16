@@ -50,10 +50,12 @@
 .modal-box{
   margin: 10% auto;
   width: 400px;
-  background: #fff;
+  background: #000;
   color: #333;
   position: relative;
   animation: modalopen 1s;
+}
+.btn-login:hover{
 }
 @keyframes modalopen{
   from{
@@ -68,14 +70,28 @@
 }
 .modal-body h3{
   font-weight: bold;
+  color:#00ed82;
+  
 }
 .btn-dark{
   background: #000;
-  color: #fff;
+  padding:10px 5px;
+  color: #00ed82;
+  font-size:22px;
+  border-color:#00ed82;
+  border-radius:5px;
+
+}
+.btn-dark:hover{
+color:#000;
+background-color: #00ed82;
+cursor:pointer;
+border-color: #00ed82;
 }
 .modal-body .btn{
   width: 100%;
   margin-top: 30px;
+
 
 }
 .modal .close{
@@ -98,7 +114,8 @@
 }
 /* Form */
 .form-control{
-  margin: 20px 0;
+  margin: 25px 0;
+  color:#00ed82;
 }
 .form-control label{
   display: block;
@@ -110,6 +127,7 @@
   border-radius: 5px;
   height: 50px;
   padding: 5px;
+  margin-top:5px;
 }
 
 /* Media queries */
